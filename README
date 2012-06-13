@@ -2,4 +2,4 @@ The commonslogging4jpos module provides a jpos logger implementation of the jaka
 Using this module, a trace issued by any class using the commons log API will be handled by the jPos logger system.    
 
 You may configure the ''cfg/commons-logging-jPosLogger.properties'' to suit your own needs.
-Alos, don't forget to provide ''/commons-logging.properties'' in the classpath. 
+Also, don't forget to provide ''/commons-logging.properties'' in the classpath. 
